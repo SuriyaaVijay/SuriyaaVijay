@@ -15,4 +15,6 @@
             user_name: SuriyaaVijay
             # Text on contribution graph 
             text: SURIYAA
-       - uses: jasineri/simple-push-action@v1
+       - uses: lowlighter/metrics@latest
+         with:
+            token: ${{secrets.METRICS_TOKEN}} 
