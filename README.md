@@ -5,13 +5,13 @@
 <h1 align="center">Hello , I am Suriyaa 👋</h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Programmer;Tech+Enthusiast;CSE+Undergraduate;Movie+Buff;News+Enthusiast"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Back+End+Developer;Programmer;Tech+Enthusiast;Computer+Science+Engineer;Movie+Buff;News+Enthusiast"/>
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am currently a Final Year student at Anna University, MIT Campus pursuing my BE degree in Computer Science and Engineering. Here to upload my projects and to learn new things</p>
+<p align="center" width="150px">I am a Computer Science Engineer. Here to upload my projects and to learn new things</p>
 </p>
 
 <br>
@@ -38,7 +38,7 @@
 
 ✅ Checkout my HackerRank Profile - [HackerRank](https://www.hackerrank.com/Suriyaa_Vijay?hr_r=1)
   
-✅ Checkout my LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/suriyaa-v/)
+<!---✅ Checkout my LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/suriyaa-v/) ---!>
 
 <hr>
 
@@ -99,7 +99,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/suriyaa-v/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>   &nbsp;&nbsp;&nbsp;  
+<!---<a href="https://www.linkedin.com/in/suriyaa-v/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>   &nbsp;&nbsp;&nbsp;  ---!>
 <a href="https://www.instagram.com/suriyxa/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
 <a href="mailto:suriyaa2002@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
 <a href="https://www.github.com/SuriyaaVijay" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br>   
