@@ -22,7 +22,7 @@
 ## Worked with:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,figma,flask,git,github,html,java,js,latex,mysql,py,react,vscode,wordpress&& perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,figma,flask,git,github,html,java,js,latex,mysql,py,react,vscode,wordpress,docker,kubernetes,vim,grafana,androidstudio&& perline=11&theme=light" />
 </p>
 
 
@@ -68,7 +68,6 @@
 <!-- <h3>Languages and Tools: </h3>
 
  <p>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
