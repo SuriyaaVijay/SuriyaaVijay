@@ -22,7 +22,9 @@
 ## Worked with:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,figma,flask,git,github,html,java,js,latex,mysql,py,react,vscode,wordpress,docker,kubernetes,vim,grafana,androidstudio&& perline=11&theme=light" />
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,figma,flask,git,github,html,java,js,latex,mysql,py,spring,vscode,wordpress,docker,kubernetes,vim,grafana&perline=11" />
+   </a>
 </p>
 
 
