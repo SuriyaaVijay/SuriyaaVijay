@@ -30,9 +30,9 @@
 
 ## About Me:
 
-📝 Pursuing Computer Science and Engineering from Anna University, MIT Campus, Chennai.
+📝 Computer Science and Engineering Graduate.
 
-💻 I'm Interested in Programming, Web development and Machine Learning.
+💻 I'm Interested in Programming, Android App Development and Machine Learning.
 
 🤝 Looking forward to collaborate on open source projects and hackathons.
 
@@ -67,21 +67,6 @@
  <hr>
  <Br>
  
-<!-- <h3>Languages and Tools: </h3>
-
- <p>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <br />  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>     
-</p> -->
 <Br>
 
 
